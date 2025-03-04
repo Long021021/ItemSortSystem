@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/image_wea">
+        <file>image/cloudy.png</file>
+        <file>image/heavy.png</file>
+        <file>image/lightrain.png</file>
+        <file>image/middlerain.png</file>
+        <file>image/refresh.png</file>
+        <file>image/shower.png</file>
+        <file>image/sunny.png</file>
+        <file>image/thundershower.png</file>
+    </qresource>
+    <qresource prefix="/image_app">
+        <file>image/video.png</file>
+        <file>image/music.png</file>
+        <file>image/monitor.png</file>
+        <file>image/environment.png</file>
+        <file>image/control.png</file>
+        <file>image/bg.png</file>
+    </qresource>
+    <qresource prefix="/image_env">
+        <file>image/environment_back_hover.png</file>
+        <file>image/environment_back.png</file>
+    </qresource>
+</RCC>
